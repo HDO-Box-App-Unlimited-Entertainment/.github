@@ -1,4 +1,4 @@
-# Welcome to Guide HDOBox for Android! 📱
+# Welcome to Guide HDOBox for Android, Firestick, iOS and Android TV! 📱
 
 ## 🌟 About This Guide
 This repository serves as an educational resource for optimizing your streaming experience with **HDOBox on Android, Firestick, iOS and Android TV devices**. It provides practical tips, performance enhancements, and advice for lawful and secure usage, ensuring compliance with all applicable regulations.
