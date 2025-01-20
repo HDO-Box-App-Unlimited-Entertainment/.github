@@ -12,6 +12,8 @@ This repository serves as an educational resource for optimizing your streaming 
 ## Description
 This guide is designed to assist Android users in setting up and maintaining **HDOBox** for an optimized streaming experience. We focus on enhancing usability while emphasizing legal and ethical practices for content consumption.
 
+![hdoboxapp](https://github.com/user-attachments/assets/79f59226-5530-4392-a8f4-c996d1d1ec02)
+
 ---
 
 ## 🚀 Key Features of HDOBox on Android
